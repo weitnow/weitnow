@@ -18,6 +18,8 @@
 
 [rpg card game](https://github.com/weitnow/phaser-cardgame#readme)
 
+[pico jumper](https://github.com/weitnow/pico#readme)
+
 ![wallpaper](https://github.com/weitnow/weitnow/blob/main/wallpaper.png)
 
 
