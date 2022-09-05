@@ -1,3 +1,3 @@
-# donkey kong
+# tamagochi
 
-![](https://github.com/weitnow/weitnow/blob/main/games/donkeykong/donkeykong.gif)
+![](https://github.com/weitnow/weitnow/blob/main/games/tamagochi/tamagochi.gif)
