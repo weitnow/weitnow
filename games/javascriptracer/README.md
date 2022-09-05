@@ -1,3 +1,3 @@
-# donkey kong
+# javascript racer
 
-![](https://github.com/weitnow/weitnow/blob/main/games/donkeykong/donkeykong.gif)
+![](https://github.com/weitnow/weitnow/blob/main/games/javascriptracer/javascriptracer.gif)
