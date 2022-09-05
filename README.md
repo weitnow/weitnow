@@ -1,3 +1,6 @@
+![wallpaper](https://github.com/weitnow/weitnow/blob/main/header.png)
+
+
 - 👋 Hi, I’m Christian Keusch
 - 👀 I’m interested in 🎮-programming...
 - 🌱 I’m currently learning 🐍 and c++
