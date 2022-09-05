@@ -12,5 +12,7 @@
 
 [py fighter 2 turbo](https://github.com/weitnow/pygame_fighter#readme)
 
+[maze explorer](https://github.com/weitnow/html5gameEngine#readme)
+
 ![wallpaper](https://github.com/weitnow/weitnow/blob/main/wallpaper.png)
 
