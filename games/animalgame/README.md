@@ -1,3 +1,3 @@
-# donkey kong
+# animal game
 
-![](https://github.com/weitnow/weitnow/blob/main/games/donkeykong/donkeykong.gif)
+![](https://github.com/weitnow/weitnow/blob/main/games/animalgame/animalgame.gif)
