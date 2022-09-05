@@ -1,3 +1,3 @@
-# donkey kong
+# super koks
 
-![](https://github.com/weitnow/weitnow/blob/main/games/donkeykong/donkeykong.gif)
+![](https://github.com/weitnow/weitnow/blob/main/games/superkoks/superkoks.gif)
