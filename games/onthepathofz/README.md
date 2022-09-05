@@ -1,3 +1,3 @@
-# donkey kong
+# on the path of z
 
-![](https://github.com/weitnow/weitnow/blob/main/games/donkeykong/donkeykong.gif)
+![](https://github.com/weitnow/weitnow/blob/main/games/onthepathofz/onthepathofz.gif)
