@@ -16,6 +16,8 @@
 
 [rambo reborn](https://github.com/weitnow/pygame_shooter#readme)
 
+[on the path of z](https://github.com/weitnow/weitnow/tree/main/games/onthepathofz#readme)
+
 ### C++ Raylib
 [zelda like game](https://github.com/weitnow/cpp_raylib_zeldalike#readme)
 
@@ -23,17 +25,25 @@
 
 [maze explorer](https://github.com/weitnow/html5gameEngine#readme)
 
+[javascript racer](https://github.com/weitnow/weitnow/tree/main/games/javascriptracer#readme)
+
 ### Javascript Phaser
 
 [rpg card game](https://github.com/weitnow/phaser-cardgame#readme)
 
 [donkey kong](https://github.com/weitnow/weitnow/tree/main/games/donkeykong#readme)
 
+[animal game](https://github.com/weitnow/weitnow/tree/main/games/animalgame#readme)
+
+[tamagochi](https://github.com/weitnow/weitnow/tree/main/games/tamagochi#readme)
+
 ### Lua Pico8
 [pico jumper](https://github.com/weitnow/pico#readme)
 
 ### Lua Love2D
 [tank wars](https://github.com/weitnow/weitnow/tree/main/games/tankgame#readme)
+
+[super koks](https://github.com/weitnow/weitnow/tree/main/games/superkoks#readme)
 
 ![wallpaper](https://github.com/weitnow/weitnow/blob/main/wallpaper.png)
 
