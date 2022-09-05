@@ -20,6 +20,10 @@
 
 [pico jumper](https://github.com/weitnow/pico#readme)
 
+[donkey kong](https://github.com/weitnow/weitnow/tree/main/games/donkeykong#readme)
+
+[little prince](https://github.com/weitnow/weitnow/tree/main/games/jumpandrun#readme)
+
 ![wallpaper](https://github.com/weitnow/weitnow/blob/main/wallpaper.png)
 
 
