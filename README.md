@@ -10,5 +10,7 @@
 
 [zelda like game](https://github.com/weitnow/cpp_raylib_zeldalike#readme)
 
+[py fighter 2 turbo](https://github.com/weitnow/pygame_fighter#readme)
+
 ![wallpaper](https://github.com/weitnow/weitnow/blob/main/wallpaper.png)
 
