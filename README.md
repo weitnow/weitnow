@@ -16,6 +16,8 @@
 
 [rambo reborn](https://github.com/weitnow/pygame_shooter#readme)
 
+[rpg card game](https://github.com/weitnow/phaser-cardgame#readme)
+
 ![wallpaper](https://github.com/weitnow/weitnow/blob/main/wallpaper.png)
 
 
