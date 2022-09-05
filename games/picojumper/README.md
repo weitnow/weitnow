@@ -1,3 +1,3 @@
-# donkey kong
+# pico jumper
 
-![](https://github.com/weitnow/weitnow/blob/main/games/donkeykong/donkeykong.gif)
+![](https://github.com/weitnow/weitnow/blob/main/games/picojumper/picojumper.gif)
