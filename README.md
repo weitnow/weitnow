@@ -31,7 +31,7 @@
 
 [rpg card game](https://github.com/weitnow/phaser-cardgame#readme)
 
-[donkey kong](https://github.com/weitnow/weitnow/tree/main/games/donkeykong#readme)
+[koks kong](https://github.com/weitnow/weitnow/tree/main/games/donkeykong#readme)
 
 [animal game](https://github.com/weitnow/weitnow/tree/main/games/animalgame#readme)
 
