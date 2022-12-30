@@ -31,6 +31,8 @@
 
 ### Javascript Phaser
 
+[survival game(https://github.com/weitnow/phaser-survivalgame#readme)
+
 [rpg card game](https://github.com/weitnow/phaser-cardgame#readme)
 
 [koks kong](https://github.com/weitnow/weitnow/tree/main/games/donkeykong#readme)
