@@ -31,7 +31,7 @@
 
 ### Javascript Phaser
 
-[survival game(https://github.com/weitnow/phaser-survivalgame#readme)
+[survival game](https://github.com/weitnow/phaser-survivalgame#readme)
 
 [rpg card game](https://github.com/weitnow/phaser-cardgame#readme)
 
