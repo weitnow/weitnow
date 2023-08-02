@@ -18,6 +18,8 @@
 
 [on the path of z](https://github.com/weitnow/weitnow/tree/main/games/onthepathofz#readme)
 
+[contra](https://github.com/weitnow/python-contra#readme)
+
 ### C++ Raylib
 [zelda like game](https://github.com/weitnow/cpp_raylib_zeldalike#readme)
 
