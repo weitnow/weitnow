@@ -25,6 +25,9 @@
 
 [endless runner](https://github.com/weitnow/cpp_endless_runner#readme)
 
+### Java LibGdx
+[gemetztel](https://github.com/weitnow/libgdx-fighter#readme)
+
 ### Javascript pure
 
 [maze explorer](https://github.com/weitnow/html5gameEngine#readme)
