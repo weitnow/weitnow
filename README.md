@@ -20,6 +20,8 @@
 
 [contra](https://github.com/weitnow/python-contra#readme)
 
+[gb-figter](https://github.com/weitnow/gb-fighter#readme)
+
 ### C++ Raylib
 [zelda like game](https://github.com/weitnow/cpp_raylib_zeldalike#readme)
 
