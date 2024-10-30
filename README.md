@@ -23,7 +23,8 @@
 [gb-fighter](https://github.com/weitnow/gb-fighter#readme)
 
 ### C++ Raylib
-[rayFighter]
+[rayFighter](https://github.com/weitnow/rayFighter#readme)
+
 [zelda like game](https://github.com/weitnow/cpp_raylib_zeldalike#readme)
 
 [endless runner](https://github.com/weitnow/cpp_endless_runner#readme)
