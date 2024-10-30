@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Christian Keusch
 - 👀 I’m interested in 🎮-programming...
-- 🌱 I’m currently learning 🐍 and haxe
+- 🌱 I’m currently learning 🐍 and c++
 - 📫 How to reach me: 📧 weitnow@gmail.com
 
 ### C# Unity
