@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning 🐍 and c++
 - 📫 How to reach me: 📧 weitnow@gmail.com
 
+### C# Monogame
+.[monofighter](https://github.com/weitnow/MonoFighter/blob/main/README.md)
+
 ### C# Unity
 [space action hero](https://github.com/weitnow/weitnow/blob/main/games/spaceactionhero/README.md)
 
@@ -23,7 +26,7 @@
 [gb-fighter](https://github.com/weitnow/gb-fighter#readme)
 
 ### C++ Raylib
-[rayFighter](https://github.com/weitnow/rayFighter#readme)      **NEW**
+[rayFighter](https://github.com/weitnow/rayFighter#readme)  
 
 [zelda like game](https://github.com/weitnow/cpp_raylib_zeldalike#readme)
 
