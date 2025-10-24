@@ -7,7 +7,7 @@
 - 📫 How to reach me: 📧 weitnow@gmail.com
 
 ### C# Monogame
-.[monofighter](https://github.com/weitnow/MonoFighter/blob/main/README.md)
+[monofighter](https://github.com/weitnow/MonoFighter/blob/main/README.md)
 
 ### C# Unity
 [space action hero](https://github.com/weitnow/weitnow/blob/main/games/spaceactionhero/README.md)
